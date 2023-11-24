@@ -10,7 +10,9 @@ This project uses [Express](https://expressjs.com/pt-br/) framework
 
 First of all create your .env file based on .env.example
 
-Than **Create a folder called images at the root of the project** and put all the images inside it
+Than install [NVM + Node](https://fabiojanio.medium.com/nvm-gerencie-m%C3%BAltiplas-instala%C3%A7%C3%B5es-do-node-js-6fcd0f13aaf7)
+
+**Create a folder called images at the root of the project** and put all the images inside it
 
 It's good to know that the ideal image size is 1024x1024
 
