@@ -1,5 +1,3 @@
-# Good Morning Jenny
-
 This project uses [Express](https://expressjs.com/pt-br/) framework
 
 <p align="center">
